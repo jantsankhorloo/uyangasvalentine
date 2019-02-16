@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# Site settings
+title: UV
+description: |
+owner: UV
+first_published: 2018
+email: 
+baseurl: "" # the subpath of site, e.g. /blog
+url: "" # the base hostname & protocol for site
+social:
+  twitter: 
+  github: 
+  linkedin-square: 
+  facebook-official: 
+  google-plus-square: 
+
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
